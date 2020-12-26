@@ -3,6 +3,9 @@ Turns Circuit Playground Express into a Christmas chip tune-sounding juke box.
 
 Used with hardware: Adafruit Circuit Playground Express microcontroller
 
+Video of it in action:
+https://youtu.be/JMjhn3Ar_0s
+
 Setup:
 1. Update the bootloader if you are not already on V3.7.0: https://learn.adafruit.com/adafruit-circuit-playground-express/adafruit2-uf2-bootloader-details
 2. Copy code.py into the CIRCUITPY directory
